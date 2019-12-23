@@ -1,0 +1,17 @@
+{
+  "name": "greenfield-api",
+  "version": "1.0.0",
+  "description": "Greenfield Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Pratik Lodha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.2",
+    "nodemon": "^2.0.2"
+  }
+}
